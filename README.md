@@ -12,7 +12,7 @@ Memory firmware engineer with 4 years of experience in memory training or MRC fo
 ## Skills
 - Languages: C, Python
 - Technologies: DDR
-- Tools: Git, MATLAB, Copilot
+- Tools: MATLAB, Copilot, Git
 - Quality: Clean code practice
 
 ---
@@ -38,21 +38,21 @@ Memory firmware engineer with 4 years of experience in memory training or MRC fo
 
 ## Projects
 **KJ_VIVEK.BLOG**
-1. The blogs captures my thoughts and experiences for my future self, sharing my journey to inspire myself later.
-2. Tool: Wordpress
-3. Notable: Writing skills, AI tools, Experiments.
+The blogs captures my thoughts and experiences for my future self, sharing my journey to inspire myself later.
+Tools: Wordpress, LLMs
+Notable: Writing skills, AI tools, Experiments.
 
 ---
 
 ## Education
 **M.Tech, Embedded Systems** — Vellore Institute of Technology (VIT), Vellore, TN, IN
 *2020 – 2022*
-- Relevant coursework: Firmware, Drivers, RTOS.
+- Coursework: Firmware, Drivers, RTOS.
 - **Publications**: Driver Pattern Recognition System, Springer, Singapore, Aug-2021.
 
 **B.E, Electronics & Communications** — Visvesvaraya Technological University (VTU), Belagavi, KA, IN.
 *2015 – 2019**
-- Relevant coursework: Basics of electronics, Analog, Digital.
+- Coursework: Basics of electronics, Analog, Digital.
 - **Publications**:  Analysis of Teacher-Student Learning Style on Student Feedback Using Manhattan Algorithm, IEEE, Feb-2020.
 
 ---
